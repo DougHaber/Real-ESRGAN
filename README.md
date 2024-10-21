@@ -2,7 +2,7 @@
 
 ## WARNING: This is an unmaintained fork
 
-The repository https://github.com/DougHaber/Real-ESRGAN is a fork of https://github.com/ai-forever/Real-ESRGAN which is a fork of https://github.com/xinntao/Real-ESRGAN.
+The repository [DougHaber/Real-ESRGAN](https://github.com/DougHaber/Real-ESRGAN) is a fork of [ai-forever/Real-ESRGAN](https://github.com/ai-forever/Real-ESRGAN) which is a fork of [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
 
 The ai-forever / sberbank-ai version added in an improved Python interface that I wanted to use.  It hadn't been updated in a couple of years, and all usage was triggering a couple Torch warnings. The changes in this repository fix those warnings.
 
