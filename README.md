@@ -1,4 +1,24 @@
 # Real-ESRGAN
+
+## WARNING: This is an unmaintained fork
+
+The repository https://github.com/DougHaber/Real-ESRGAN is a fork of https://github.com/ai-forever/Real-ESRGAN which is a fork of https://github.com/xinntao/Real-ESRGAN.
+
+The ai-forever / sberbank-ai version added in an improved Python interface that I wanted to use.  It hadn't been updated in a couple of years, and all usage was triggering a couple Torch warnings. The changes in this repository fix those warnings.
+
+These changes have been made available as a [pull request](https://github.com/ai-forever/Real-ESRGAN/pull/34) to the upstream as well.
+
+As this is unmaintained, usage is not recommended, but if you feel the need, the correct URL is:
+
+```bash
+pip install git+https://github.com/DougHaber/Real-ESRGAN.git
+```
+
+All content below this section is unmodified from the upstream repository.
+
+## Overview
+
+
 PyTorch implementation of a Real-ESRGAN model trained on custom dataset. This model shows better results on faces compared to the original version. It is also easier to integrate this model into your projects.
 
 > This is not an official implementation. We partially use code from the [original repository](https://github.com/xinntao/Real-ESRGAN)
