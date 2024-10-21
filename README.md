@@ -14,6 +14,8 @@ As this is unmaintained, usage is not recommended, but if you feel the need, the
 pip install git+https://github.com/DougHaber/Real-ESRGAN.git
 ```
 
+In the event that the PR is accepted, this fork will likely be deleted.
+
 All content below this section is unmodified from the upstream repository.
 
 ## Overview
