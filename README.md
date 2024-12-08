@@ -18,6 +18,8 @@ In the event that the PR is accepted, this fork will likely be deleted.
 
 All content below this section is unmodified from the upstream repository.
 
+**Update 2024-12-07:** I made another change to fix a warning with newer versions of huggingface.
+
 ## Overview
 
 
